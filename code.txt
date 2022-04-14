@@ -5,6 +5,3 @@ Feature Init
 Bugfix Feature
 
 Bugfix 3 Develop
-
-Hotfix 1 Develop 10:46
-
