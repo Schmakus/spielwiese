@@ -6,4 +6,10 @@ Bugfix 3
 =======
 New Feature 1 11:06
 New Feature 2 11:07
+<<<<<<< HEAD
 >>>>>>> 9fad611 (New Feature 1 und 2)
+=======
+Bugfix Feature 1 11:09
+Bugfix Feature 2 11:09
+
+>>>>>>> 6eaa380 (Bugfix Feature 1 und 2)
