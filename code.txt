@@ -1,4 +1,9 @@
 Init 11:03
+<<<<<<< HEAD
 Bugfix 1
 Bugfix 2
 Bugfix 3
+=======
+New Feature 1 11:06
+New Feature 2 11:07
+>>>>>>> 9fad611 (New Feature 1 und 2)
